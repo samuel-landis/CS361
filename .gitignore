@@ -5,6 +5,8 @@ __pycache__/
 create.py
 # C extensions
 *.so
+*.xml
+*.iml
 
 # Distribution / packaging
 .Python
