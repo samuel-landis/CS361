@@ -12,3 +12,5 @@ x = rows, cols, start x, start y
 2 = 95, 106, 0, 0
 3 = 500, 500, 0, 0
 4 = 50, 50, 31, 47
+
+header on files is "{rows} {cols} {start x} {start y} {num of items}"
